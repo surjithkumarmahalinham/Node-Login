@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url('/assets/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.center-div{
+    padding-top: 10%;
+}
+.btn.btn-success{
+    padding: 4px 15px;
+    margin-top: 10px;
+}
+.container .border{
+    border-radius: 40px;
+}
+form{
+    padding: 0 3rem;
+}
+
+.container .w-25{
+    width: 35% !important;
+}
